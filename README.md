@@ -29,6 +29,10 @@ in teams (1-4 individuals per team).
 ### Resources
 [Tensor Overflow](https://www.tensorflow.org/)
 
-[Tensor Tutorial]()
+Tensor Tutorials???
+
+[Convolutional Neural Network](https://www.mathworks.com/solutions/deep-learning/convolutional-neural-network.html)
+
+[Object Detector](https://www.mathworks.com/help/vision/ug/object-detection-using-deep-learning.html)
 
 
