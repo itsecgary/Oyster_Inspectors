@@ -28,3 +28,7 @@ in teams (1-4 individuals per team).
 
 ### Resources
 [Tensor Overflow](https://www.tensorflow.org/)
+
+[Tensor Tutorial]()
+
+
